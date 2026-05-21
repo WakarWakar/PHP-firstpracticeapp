@@ -2,6 +2,14 @@
 Laravel framework try
 
 -------------------
+Requirements:
+1. Install: PHP, Composer, MySQL Server
+2. Add to PATH: 
+- C:\Program Files\php
+- C:\ProgramData\ComposerSetup\bin
+- C:\Program Files\MySQL\MySQL Server 8.0\bin
+
+-------------------
 Installation steps:
 
 1. composer install
